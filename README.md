@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Neocrumm2
+- 👀 I’m interested in tech.
+- 🌱 I’m currently learning about Javascript.
+- 📫 reach me at solomongamer50@gmail.com
